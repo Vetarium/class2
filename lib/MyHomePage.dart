@@ -36,7 +36,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.orange,
-        title: const Text('Jysan Bank'),
+        title: const Text('Login page'),
       ),
       body: Center(
         child: _widgetOptions.elementAt(_selectedIndex),

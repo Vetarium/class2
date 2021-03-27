@@ -8,7 +8,7 @@ class Header extends StatelessWidget{
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget> [
           Center(
-            child: Text("Jysan Bank",
+            child: Text("First App",
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 40,
@@ -18,7 +18,7 @@ class Header extends StatelessWidget{
           SizedBox(height: 10,),
           Center(
             child: Text(
-              "I will take your money",
+              "welcome to my app",
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 18,
